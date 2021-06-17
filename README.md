@@ -1,2 +1,5 @@
-# fiori-iniciacion
-SAP fiori ui5 iniciación
+- 👋 Hi, I’m @bienzosap
+- 👀 I’m interested in SAP new Technology and work with it.
+- 🌱 I’m currently learning about SAP Business Technology Platform
+- 💞️ I’m looking to collaborate on projects with SAP Technology
+- 📫 mailto: bienzo78@gmail.com
